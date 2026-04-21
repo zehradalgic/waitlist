@@ -142,11 +142,6 @@ export default function TechLaunchWaitlist() {
             </div>
           )}
         </div>
-
-        {/* ALT BİLGİ */}
-        <p className="text-center text-xs text-slate-400 uppercase tracking-widest font-medium">
-          Haliç University MIS Project • 2026
-        </p>
       </div>
     </div>
   );
