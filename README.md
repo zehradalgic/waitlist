@@ -1,6 +1,6 @@
 # 🚀 Tech Launch 2026 - Waitlist Application
 
-Bu proje, modern web teknolojileri kullanılarak geliştirilmiş, gerçek zamanlı veri yönetimi yapan bir **"Bekleme Listesi" (Waitlist)** uygulamasıdır. Proje, bir MIS öğrencisi vizyonuyla, hem kullanıcı deneyimi (UX) hem de veri bütünlüğü (Data Integrity) ön planda tutularak inşa edilmiştir.
+Bu proje, modern web teknolojileri kullanılarak geliştirilmiş, gerçek zamanlı veri yönetimi yapan bir **"Bekleme Listesi" (Waitlist)** uygulamasıdır. Proje, hem kullanıcı deneyimi (UX) hem de veri bütünlüğü (Data Integrity) ön planda tutularak inşa edilmiştir.
 
 ## 🛠️ Kullanılan Teknolojiler
 
